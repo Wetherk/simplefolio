@@ -1,11 +1,11 @@
 .skills_icon {
-  font-size: 10rem;
-  margin: 1rem;
+	font-size: 10rem;
+	margin: 1rem;
 }
 .single_skill {
-  width: fit-content;
+	width: fit-content;
 }
 .skills_container {
-  display: flex;
-  justify-content: center;
+	display: flex;
+	justify-content: center;
 }
